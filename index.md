@@ -1,4 +1,4 @@
-# Privacy Policy for BitmapCore
+# Privacy Policy for Bitmapcore
 
 **Last updated:** June 2026
 
